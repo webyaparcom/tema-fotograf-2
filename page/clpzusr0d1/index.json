@@ -1,0 +1,40 @@
+{
+  "id": "clpzusr0d1",
+  "name": {
+    "tr": "Portföy",
+    "en": "Portfolio",
+    "ar": "معرض الأعمال"
+  },
+  "description": {
+    "tr": "Siyah-beyaz seçki; görseller temsilîdir.",
+    "en": "A black-and-white edit; images are representative.",
+    "ar": "مختارات بالأبيض والأسود؛ الصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "referans, müşteri yorumu",
+    "en": "reference, review",
+    "ar": "مرجع، تقييم"
+  },
+  "path": "referanslar",
+  "icon": "stars",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "yov16r",
+      "v8el4n"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Portföy",
+    "en": "Portfolio",
+    "ar": "معرض الأعمال"
+  },
+  "date": "2026-11-16T11:43:08.081Z",
+  "update": "2026-11-16T11:51:34.185Z"
+}

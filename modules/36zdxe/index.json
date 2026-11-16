@@ -1,0 +1,33 @@
+{
+  "name": "Menü ",
+  "desing": {
+    "logo": "{{logo}}",
+    "url": "iletisim",
+    "bgcolor": "#333333",
+    "color": "#ffffff",
+    "barbgcolor": "#0080c0",
+    "barcolor": "#ffffff",
+    "activebgcolor": "#e0e0e0",
+    "activecolor": "#000000",
+    "ctabgcolor": "#0080c0",
+    "ctacolor": "#ffffff",
+    "radius": "5px",
+    "ariaToggle": {
+      "tr": "Menüyü aç/kapat",
+      "en": "Toggle menu", "ar": "تبديل القائمة"
+    },
+    "ariaClose": {
+      "tr": "Menüyü kapat",
+      "en": "Close menu"
+    }
+  },
+  "category": "menu",
+  "description": "Klasik üst menü: ortalı logo, yatay sayfa linkleri ve iletişim CTA. Desing renk token’ları, mobil hamburger drawer, sade alt-sayfa dropdown ve TR/EN dil chip’i (masaüstü logo satırı sağ; mobil drawer) içerir. Hoşgeldin şeridi yok.",
+  "version": "2.1.1",
+  "icon": "menu",
+  "veri": {
+    "statik": true,
+    "dinamik": false,
+    "kaynak": "desing/data"
+  }
+}
