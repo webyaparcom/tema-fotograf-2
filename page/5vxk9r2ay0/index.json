@@ -1,0 +1,39 @@
+{
+  "id": "5vxk9r2ay0",
+  "name": {
+    "tr": "Çekim planla",
+    "en": "Plan a shoot",
+    "ar": "خطّط لجلسة"
+  },
+  "description": {
+    "tr": "Çekim talebi (demo).",
+    "en": "Shoot request (demo).",
+    "ar": "طلب جلسة (تجريبي)."
+  },
+  "keyword": {
+    "tr": "teklif",
+    "en": "quote",
+    "ar": "عرض سعر"
+  },
+  "path": "teklif-al",
+  "icon": "request_quote",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "v8el4n"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Çekim planla",
+    "en": "Plan a shoot",
+    "ar": "خطّط لجلسة"
+  },
+  "date": "2026-11-16T11:43:08.088Z",
+  "update": "2026-11-16T11:51:34.188Z"
+}

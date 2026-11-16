@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Tuz Atelier: siyah-beyaz portre, belgesel, natürmort ve manzara fotoğrafı; arşiv baskı. Demo site; görseller temsilîdir.",
+    "en": "Tuz Atelier: black-and-white portrait, documentary, still life and landscape photography; archival prints. Demo site; images are representative.",
+    "ar": "توز أتيليه: تصوير بالأبيض والأسود للبورتريه والوثائقي والطبيعة الصامتة والمناظر، مع طباعة أرشيفية. موقع تجريبي؛ الصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "fotoğraf stüdyosu, siyah beyaz portre, belgesel fotoğraf, ürün fotoğrafı, arşiv baskı",
+    "en": "photo studio, black and white portrait, documentary photography, product photography, archival print",
+    "ar": "استوديو تصوير، بورتريه بالأبيض والأسود، تصوير وثائقي، تصوير منتجات، طباعة أرشيفية"
+  },
+  "category": "Kurumsal",
+  "name": "Tuz Atelier",
+  "domain": "fotograf-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "open-sans",
+    "heading": "dm-serif-display",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#E3C48A",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "1px",
+    "--mx-radius-md": "2px",
+    "--mx-radius-lg": "3px",
+    "--mx-radius-xl": "4px"
+  },
+  "icon": "icon.png"
+}

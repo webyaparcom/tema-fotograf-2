@@ -1,0 +1,40 @@
+{
+  "id": "2svfx3bsny",
+  "name": {
+    "tr": "Çekimler",
+    "en": "Shoots",
+    "ar": "الجلسات"
+  },
+  "description": {
+    "tr": "Portre, belgesel, natürmort, mimari ve baskı.",
+    "en": "Portrait, documentary, still life, architecture and print.",
+    "ar": "بورتريه ووثائقي وطبيعة صامتة وعمارة وطباعة."
+  },
+  "keyword": {
+    "tr": "Atölye vaatleri",
+    "en": "Atelier promises",
+    "ar": "وعود الأتيليه"
+  },
+  "path": "hizmetler",
+  "icon": "work",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "k2iiai",
+      "v8el4n"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Çekimler",
+    "en": "Shoots",
+    "ar": "الجلسات"
+  },
+  "date": "2026-11-16T11:43:08.062Z",
+  "update": "2026-11-16T11:51:34.175Z"
+}

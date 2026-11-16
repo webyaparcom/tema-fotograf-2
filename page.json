@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "id": "2svfx3bsny",
+      "name": {
+        "tr": "Çekimler",
+        "en": "Shoots",
+        "ar": "الجلسات"
+      },
+      "description": {
+        "tr": "Portre, belgesel, natürmort, mimari ve baskı.",
+        "en": "Portrait, documentary, still life, architecture and print.",
+        "ar": "بورتريه ووثائقي وطبيعة صامتة وعمارة وطباعة."
+      },
+      "path": "hizmetler",
+      "icon": "work",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "k2iiai",
+          "v8el4n"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Atölye",
+        "en": "Atelier",
+        "ar": "الأتيليه"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "r6f83y",
+          "1fbj33"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Siyah-beyaz portre, belgesel ve baskı atölyesi.",
+        "en": "A black-and-white portrait, documentary and print atelier.",
+        "ar": "أتيليه للبورتريه والوثائقي والطباعة بالأبيض والأسود."
+      }
+    },
+    {
+      "id": "k6q1jheeyr",
+      "name": {
+        "tr": "Fotoğrafçılar",
+        "en": "Photographers",
+        "ar": "المصورون"
+      },
+      "description": {
+        "tr": "Sizi karşılayan çalışanlarımız.",
+        "en": "The staff who welcomes you.",
+        "ar": "الموظفون الذين يستقبلونكم."
+      },
+      "path": "ekip",
+      "icon": "groups",
+      "category": "hakkimizda",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "vuncag",
+          "v8el4n"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "clpzusr0d1",
+      "name": {
+        "tr": "Portföy",
+        "en": "Portfolio",
+        "ar": "معرض الأعمال"
+      },
+      "description": {
+        "tr": "Siyah-beyaz seçki; görseller temsilîdir.",
+        "en": "A black-and-white edit; images are representative.",
+        "ar": "مختارات بالأبيض والأسود؛ الصور تمثيلية."
+      },
+      "path": "referanslar",
+      "icon": "stars",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "yov16r",
+          "v8el4n"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "5vxk9r2ay0",
+      "name": {
+        "tr": "Çekim planla",
+        "en": "Plan a shoot",
+        "ar": "خطّط لجلسة"
+      },
+      "description": {
+        "tr": "Çekim talebi (demo).",
+        "en": "Shoot request (demo).",
+        "ar": "طلب جلسة (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "request_quote",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "v8el4n"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}
