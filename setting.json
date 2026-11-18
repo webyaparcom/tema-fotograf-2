@@ -4,12 +4,16 @@
   "description": {
     "tr": "Tuz Atelier: siyah-beyaz portre, belgesel, natürmort ve manzara fotoğrafı; arşiv baskı. Demo site; görseller temsilîdir.",
     "en": "Tuz Atelier: black-and-white portrait, documentary, still life and landscape photography; archival prints. Demo site; images are representative.",
-    "ar": "توز أتيليه: تصوير بالأبيض والأسود للبورتريه والوثائقي والطبيعة الصامتة والمناظر، مع طباعة أرشيفية. موقع تجريبي؛ الصور تمثيلية."
+    "ar": "توز أتيليه: تصوير بالأبيض والأسود للبورتريه والوثائقي والطبيعة الصامتة والمناظر، مع طباعة أرشيفية. موقع تجريبي؛ الصور تمثيلية.",
+    "de": "Tuz Atelier: Schwarz-Weiß-Porträt, Dokumentar-, Stillleben- und Landschaftsfotografie; Archivdrucke. Demoseite; Bilder sind repräsentativ.",
+    "ru": "Tuz Atelier: чёрно-белый портрет, документальная, натюрмортная и пейзажная фотография; архивные печати. Демо-сайт; изображения являются иллюстративными."
   },
   "keyword": {
     "tr": "fotoğraf stüdyosu, siyah beyaz portre, belgesel fotoğraf, ürün fotoğrafı, arşiv baskı",
     "en": "photo studio, black and white portrait, documentary photography, product photography, archival print",
-    "ar": "استوديو تصوير، بورتريه بالأبيض والأسود، تصوير وثائقي، تصوير منتجات، طباعة أرشيفية"
+    "ar": "استوديو تصوير، بورتريه بالأبيض والأسود، تصوير وثائقي، تصوير منتجات، طباعة أرشيفية",
+    "de": "Fotostudio, Schwarz-Weiß-Porträt, Dokumentarfotografie, Produktfotografie, Archivdruck",
+    "ru": "фотостудия, чёрно-белый портрет, документальная фотография, предметная съёмка, архивная печать"
   },
   "category": "Kurumsal",
   "name": "Tuz Atelier",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

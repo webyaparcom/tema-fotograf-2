@@ -5,12 +5,16 @@
       "name": {
         "tr": "Çekimler",
         "en": "Shoots",
-        "ar": "الجلسات"
+        "ar": "الجلسات",
+        "de": "Shootings",
+        "ru": "Съемки"
       },
       "description": {
         "tr": "Portre, belgesel, natürmort, mimari ve baskı.",
         "en": "Portrait, documentary, still life, architecture and print.",
-        "ar": "بورتريه ووثائقي وطبيعة صامتة وعمارة وطباعة."
+        "ar": "بورتريه ووثائقي وطبيعة صامتة وعمارة وطباعة.",
+        "de": "Porträt, Dokumentar, Stillleben, Architektur und Druck.",
+        "ru": "Портрет, документалистика, натюрморт, архитектура и печать."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -30,7 +34,9 @@
       "name": {
         "tr": "Atölye",
         "en": "Atelier",
-        "ar": "الأتيليه"
+        "ar": "الأتيليه",
+        "de": "Workshop",
+        "ru": "Воркшоп"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -51,7 +57,9 @@
       "description": {
         "tr": "Siyah-beyaz portre, belgesel ve baskı atölyesi.",
         "en": "A black-and-white portrait, documentary and print atelier.",
-        "ar": "أتيليه للبورتريه والوثائقي والطباعة بالأبيض والأسود."
+        "ar": "أتيليه للبورتريه والوثائقي والطباعة بالأبيض والأسود.",
+        "de": "Schwarz-Weiß-Porträt, Dokumentarfotografie und Druckwerkstatt.",
+        "ru": "Чёрно-белый портрет, документальная съёмка и печатная мастерская."
       }
     },
     {
@@ -59,12 +67,16 @@
       "name": {
         "tr": "Fotoğrafçılar",
         "en": "Photographers",
-        "ar": "المصورون"
+        "ar": "المصورون",
+        "de": "Fotografen",
+        "ru": "Фотографы"
       },
       "description": {
         "tr": "Sizi karşılayan çalışanlarımız.",
         "en": "The staff who welcomes you.",
-        "ar": "الموظفون الذين يستقبلونكم."
+        "ar": "الموظفون الذين يستقبلونكم.",
+        "de": "Unsere Mitarbeiter, die Sie empfangen.",
+        "ru": "Наши сотрудники, которые вас встретят."
       },
       "path": "ekip",
       "icon": "groups",
@@ -85,12 +97,16 @@
       "name": {
         "tr": "Portföy",
         "en": "Portfolio",
-        "ar": "معرض الأعمال"
+        "ar": "معرض الأعمال",
+        "de": "Portfolio",
+        "ru": "Портфолио"
       },
       "description": {
         "tr": "Siyah-beyaz seçki; görseller temsilîdir.",
         "en": "A black-and-white edit; images are representative.",
-        "ar": "مختارات بالأبيض والأسود؛ الصور تمثيلية."
+        "ar": "مختارات بالأبيض والأسود؛ الصور تمثيلية.",
+        "de": "Schwarz-Weiß-Auswahl; Bilder sind repräsentativ.",
+        "ru": "Чёрно-белая подборка; изображения являются иллюстративными."
       },
       "path": "referanslar",
       "icon": "stars",
@@ -111,12 +127,16 @@
       "name": {
         "tr": "Çekim planla",
         "en": "Plan a shoot",
-        "ar": "خطّط لجلسة"
+        "ar": "خطّط لجلسة",
+        "de": "Termin",
+        "ru": "Запись"
       },
       "description": {
         "tr": "Çekim talebi (demo).",
         "en": "Shoot request (demo).",
-        "ar": "طلب جلسة (تجريبي)."
+        "ar": "طلب جلسة (تجريبي).",
+        "de": "Drehanfrage (Demo).",
+        "ru": "Заявка на съемку (демо)."
       },
       "path": "teklif-al",
       "icon": "request_quote",
@@ -135,7 +155,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -155,7 +177,9 @@
       "description": {
         "tr": "Adres, telefon ve çalışma saatleri.",
         "en": "Address, phone and opening hours.",
-        "ar": "العنوان والهاتف وساعات العمل."
+        "ar": "العنوان والهاتف وساعات العمل.",
+        "de": "Adresse, Telefon und Öffnungszeiten.",
+        "ru": "Адрес, телефон и часы работы."
       }
     }
   ],

@@ -3,17 +3,23 @@
   "name": {
     "tr": "Portföy",
     "en": "Portfolio",
-    "ar": "معرض الأعمال"
+    "ar": "معرض الأعمال",
+    "de": "Portfolio",
+    "ru": "Портфолио"
   },
   "description": {
     "tr": "Siyah-beyaz seçki; görseller temsilîdir.",
     "en": "A black-and-white edit; images are representative.",
-    "ar": "مختارات بالأبيض والأسود؛ الصور تمثيلية."
+    "ar": "مختارات بالأبيض والأسود؛ الصور تمثيلية.",
+    "de": "Schwarz-Weiß-Auswahl; Bilder sind repräsentativ.",
+    "ru": "Чёрно-белая подборка; изображения являются иллюстративными."
   },
   "keyword": {
     "tr": "referans, müşteri yorumu",
     "en": "reference, review",
-    "ar": "مرجع، تقييم"
+    "ar": "مرجع، تقييم",
+    "de": "Referenz, Kundenbewertung",
+    "ru": "рекомендация, отзыв клиента"
   },
   "path": "referanslar",
   "icon": "stars",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Portföy",
     "en": "Portfolio",
-    "ar": "معرض الأعمال"
+    "ar": "معرض الأعمال",
+    "de": "Portfolio",
+    "ru": "Портфолио"
   },
   "date": "2026-11-16T11:43:08.081Z",
   "update": "2026-11-16T11:51:34.185Z"
