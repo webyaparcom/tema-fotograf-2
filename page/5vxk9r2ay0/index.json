@@ -3,17 +3,23 @@
   "name": {
     "tr": "Çekim planla",
     "en": "Plan a shoot",
-    "ar": "خطّط لجلسة"
+    "ar": "خطّط لجلسة",
+    "de": "Termin",
+    "ru": "Запись"
   },
   "description": {
     "tr": "Çekim talebi (demo).",
     "en": "Shoot request (demo).",
-    "ar": "طلب جلسة (تجريبي)."
+    "ar": "طلب جلسة (تجريبي).",
+    "de": "Drehanfrage (Demo).",
+    "ru": "Заявка на съемку (демо)."
   },
   "keyword": {
     "tr": "teklif",
     "en": "quote",
-    "ar": "عرض سعر"
+    "ar": "عرض سعر",
+    "de": "Angebot",
+    "ru": "оценка"
   },
   "path": "teklif-al",
   "icon": "request_quote",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Çekim planla",
     "en": "Plan a shoot",
-    "ar": "خطّط لجلسة"
+    "ar": "خطّط لجلسة",
+    "de": "Termin",
+    "ru": "Запись"
   },
   "date": "2026-11-16T11:43:08.088Z",
   "update": "2026-11-16T11:51:34.188Z"

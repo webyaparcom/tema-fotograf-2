@@ -2,7 +2,9 @@
   "name": {
     "tr": "Atölye",
     "en": "Atelier",
-    "ar": "الأتيليه"
+    "ar": "الأتيليه",
+    "de": "Workshop",
+    "ru": "Воркшоп"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Siyah-beyaz portre, belgesel ve baskı atölyesi.",
     "en": "A black-and-white portrait, documentary and print atelier.",
-    "ar": "أتيليه للبورتريه والوثائقي والطباعة بالأبيض والأسود."
+    "ar": "أتيليه للبورتريه والوثائقي والطباعة بالأبيض والأسود.",
+    "de": "Schwarz-Weiß-Porträt, Dokumentarfotografie und Druckwerkstatt.",
+    "ru": "Чёрно-белый портрет, документальная съёмка и печатная мастерская."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Atölye",
     "en": "Atelier",
-    "ar": "الأتيليه"
+    "ar": "الأتيليه",
+    "de": "Workshop",
+    "ru": "Воркшоп"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T11:51:34.178Z",

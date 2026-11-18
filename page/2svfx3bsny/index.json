@@ -3,17 +3,23 @@
   "name": {
     "tr": "Çekimler",
     "en": "Shoots",
-    "ar": "الجلسات"
+    "ar": "الجلسات",
+    "de": "Shootings",
+    "ru": "Съемки"
   },
   "description": {
     "tr": "Portre, belgesel, natürmort, mimari ve baskı.",
     "en": "Portrait, documentary, still life, architecture and print.",
-    "ar": "بورتريه ووثائقي وطبيعة صامتة وعمارة وطباعة."
+    "ar": "بورتريه ووثائقي وطبيعة صامتة وعمارة وطباعة.",
+    "de": "Porträt, Dokumentar, Stillleben, Architektur und Druck.",
+    "ru": "Портрет, документалистика, натюрморт, архитектура и печать."
   },
   "keyword": {
     "tr": "Atölye vaatleri",
     "en": "Atelier promises",
-    "ar": "وعود الأتيليه"
+    "ar": "وعود الأتيليه",
+    "de": "Versprechen der Werkstatt",
+    "ru": "Обещания мастерской"
   },
   "path": "hizmetler",
   "icon": "work",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Çekimler",
     "en": "Shoots",
-    "ar": "الجلسات"
+    "ar": "الجلسات",
+    "de": "Shootings",
+    "ru": "Съемки"
   },
   "date": "2026-11-16T11:43:08.062Z",
   "update": "2026-11-16T11:51:34.175Z"
